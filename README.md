@@ -96,10 +96,10 @@ The model is able to learn temporal patterns in stock price movements and produc
 ## Future Improvements
 
 * Incorporate additional financial features (volume, technical indicators)
+* Planning on instead of using charts, candles are produced instead for better readability
 * Hyperparameter tuning and model optimization
-* Transformer-based architectures for time-series forecasting
-* Cross-validation for improved robustness
-* Real-time prediction pipeline
+* Transformer based architectures for time-series forecasting
+* Real time prediction pipeline
 * Web-based deployment interface
 
 ---
